@@ -1,0 +1,45 @@
+# Prints on the terminal the string contained within the " " marks
+print "I will now count my chickens:" 
+
+# Prints the string contained within the " " marks along with 
+# the mathematical results of division and addition    
+print "Hens" , 25 + 30 / 6
+
+# Prints the string contained within the " " marks along with 
+# the mathematical results of modulo, multiplication, then subtraction 
+print "Roosters" , 100 - 25 * 3 % 4
+
+# Prints the string contained within the " " marks
+print "Now I will count the eggs:"
+
+# Prints the mathematical results of modulo, division , addition and subtraction
+print 3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6
+
+# Prints the string contained within the " " marks
+print "Is it true that 3 + 2  < 5 - 7?"
+
+# Prints the logical answer to the mathematical inequality expression
+print 3 + 2 < 5 - 7
+
+# Prints the string contained within the " " marks along with 
+# the mathematical results of addition
+print "What is 3 + 2?", 3 + 2
+
+# Prints the string contained within the " " marks along with 
+# the mathematical results of subtraction
+print "What is 5 - 7?", 5 - 7
+
+# Prints the string contained within the " " marks 
+print "Oh, that's why its False."
+
+# Prints the string contained within the " " marks 
+print "How about some more."
+
+# Prints the logical answer between two numbers
+print "Is it greater?", 5 > -2
+
+# Prints the logical answer between two numbers
+print "Is it greater or equal?", 5 >= -2
+
+# Prints the logical answer between two numbers
+print "Is it less or equal?", 5 <= -2 
